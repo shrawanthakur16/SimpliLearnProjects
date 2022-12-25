@@ -2,7 +2,6 @@
 This folder contains projects done during Java FSD Training
 
 ***** LockedMe *****
-
 This project is like a file manager having options as:
 1. List all the files
 2. Peform operations like creating a new file, deleting a file or searching a file
